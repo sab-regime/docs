@@ -1,4 +1,4 @@
----
+---at
 title: Signing up for a new GitHub account
 shortTitle: Sign up for a new GitHub account
 intro: '{% data variables.product.product_name %} offers user accounts for individuals and organizations for teams of people working together.'
